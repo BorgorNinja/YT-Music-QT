@@ -71,13 +71,3 @@ Feel free to open issues or submit pull requests to improve this application.
 ## License
 This project is licensed under the GNU GPL v2.0 License. See `LICENSE` for details.
 ```
-
----
-
-### **`requirements.txt`**
-
-```plaintext
-PyQt5
-yt-dlp
-youtube-search-python
-```
