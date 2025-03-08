@@ -1,6 +1,3 @@
-### **`README.md`**
-
-```markdown
 # YT Music Player
 
 YT Music Player is a lightweight YouTube music streaming application written in Python using PyQt5. It allows you to search for music, stream audio directly, and manage playback.
@@ -70,4 +67,3 @@ Feel free to open issues or submit pull requests to improve this application.
 
 ## License
 This project is licensed under the GNU GPL v2.0 License. See `LICENSE` for details.
-```
